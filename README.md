@@ -24,5 +24,3 @@ Actualmente trabajo en el mantenimiento y mejora de aplicaciones web. Algunos de
 Si te interesa mi perfil para desarrollo web o seguridad informática:
 * 📧 **Correo:** [chiquitojosemari@gmail.com](mailto:chiquitojosemari@gmail.com)
 * 📍 **Ubicación:** Morelia, Michoacán.
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=ChemaAcDc&show_icons=true&theme=radical&hide_border=true)
